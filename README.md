@@ -26,3 +26,7 @@ I have just done a sample analysis of the gamers' guessed samples of the ethnic 
 Based on the code in this article, there are many similar analyses that can be done and I hope you find them useful.
 It was an unfinished project due to time constraints, but it was a meaningful project that could be explored in many interesting ways based on the ageguess data.
 Here is a reference article. https://www.nature.com/articles/s41597-019-0245-9#Sec12
+
+My code uses the CC0 license and is free to use without notice.
+
+19_02_2021
